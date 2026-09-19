@@ -1,0 +1,85 @@
+{
+  "targetDirectory": "C:\\Users\\X\\my-node-app",
+  "stats": {
+    "folderCount": 88,
+    "fileCount": 125,
+    "totalSize": 77986,
+    "totalFormattedSize": "76.16 КБ"
+  },
+  "extensions": {
+    "без расширения": {
+      "count": 87,
+      "size": 26736
+    },
+    ".sample": {
+      "count": 14,
+      "size": 26788
+    },
+    ".js": {
+      "count": 11,
+      "size": 23312
+    },
+    ".json": {
+      "count": 1,
+      "size": 260
+    },
+    ".txt": {
+      "count": 12,
+      "size": 890
+    }
+  },
+  "topLargest": [
+    {
+      "name": "pre-rebase.sample",
+      "path": "C:\\Users\\X\\my-node-app\\.git\\hooks\\pre-rebase.sample",
+      "size": 4898
+    },
+    {
+      "name": "fsmonitor-watchman.sample",
+      "path": "C:\\Users\\X\\my-node-app\\.git\\hooks\\fsmonitor-watchman.sample",
+      "size": 4611
+    },
+    {
+      "name": "task3.js",
+      "path": "C:\\Users\\X\\my-node-app\\task3.js",
+      "size": 4091
+    },
+    {
+      "name": "update.sample",
+      "path": "C:\\Users\\X\\my-node-app\\.git\\hooks\\update.sample",
+      "size": 3650
+    },
+    {
+      "name": "task2.js",
+      "path": "C:\\Users\\X\\my-node-app\\task2.js",
+      "size": 3195
+    }
+  ],
+  "topSmallest": [
+    {
+      "name": "main",
+      "path": "C:\\Users\\X\\my-node-app\\main",
+      "size": 0
+    },
+    {
+      "name": "git",
+      "path": "C:\\Users\\X\\my-node-app\\git",
+      "size": 0
+    },
+    {
+      "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "path": "C:\\Users\\X\\my-node-app\\.git\\objects\\e6\\9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 15
+    },
+    {
+      "name": "HEAD",
+      "path": "C:\\Users\\X\\my-node-app\\.git\\refs\\remotes\\origin\\HEAD",
+      "size": 30
+    },
+    {
+      "name": ".gitignore",
+      "path": "C:\\Users\\X\\my-node-app\\.gitignore",
+      "size": 34
+    }
+  ]
+}
