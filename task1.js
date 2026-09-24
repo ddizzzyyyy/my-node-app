@@ -33,4 +33,4 @@ app.use(router.routes()).use(router.allowedMethods());
 
 app.listen(3000, () => {
   console.log('Задание 1: Сервер запущен на http://localhost:3000');
-});
+}); 
