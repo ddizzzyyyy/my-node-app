@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "commander": "^15.0.0",
-    "inquirer": "^8.2.6"
-  }
-}
