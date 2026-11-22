@@ -1,6 +1,6 @@
 const Joi = require('joi');
 
-function groupHeaderMiddleware(group = 'ББМО-01-23') {
+function groupHeaderMiddleware(group = 'BBMO-01-23') {
   return async (ctx, next) => {
     ctx.set('X-Group', group);
     await next();

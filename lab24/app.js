@@ -13,7 +13,7 @@ const usersRouter = require('./routes/users');
 const PORT = process.env.PORT || 3000;
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/bbmo_01_23';
 const MONGO_DB = process.env.MONGO_DB || 'bbmo_01_23';
-const GROUP = 'ББМО-01-23';
+const GROUP = 'BBMO-01-23';
 
 async function start() {
   const app = new Koa();
